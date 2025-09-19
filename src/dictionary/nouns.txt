@@ -1,0 +1,2 @@
+# Each noun is expressed in stem form
+bell,M

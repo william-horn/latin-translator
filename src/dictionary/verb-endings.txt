@@ -1,0 +1,6 @@
+o,1,S
+s,2,S
+t,3,S
+mus,1,P
+tis,2,P
+nt,3,P
